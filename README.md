@@ -10,9 +10,9 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
 Use this form to join our mailing list.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdh0j0NrZ3LyKeHf8PM0X3DrVnqMFrxzqEUNOuS09Ms5WH39w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0Ivdjp3OsiIuB2sd4ctd_MhJQjbPZs-pTHiYccXbt4mTuuA/viewform?embedded=true" style="width: 100%;" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-If it doesn't work, [here is a link instead](https://forms.gle/tATgaAwgjjfP6Z5J7).
+If it doesn't work, [here is a link instead](https://forms.gle/AHyBWxjDMhNHuc149).
 
 ### Upcoming events
 
