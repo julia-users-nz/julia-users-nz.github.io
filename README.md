@@ -6,9 +6,13 @@
 
 This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
-[Sign up for email updates!](https://forms.gle/tATgaAwgjjfP6Z5J7)
+### Mailing list
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdh0j0NrZ3LyKeHf8PM0X3DrVnqMFrxzqEUNOuS09Ms5WH39w/viewform?embedded=true" width="640" height="587" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Use this form to join our mailing list.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdh0j0NrZ3LyKeHf8PM0X3DrVnqMFrxzqEUNOuS09Ms5WH39w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+If it doesn't work, [here is a link instead](https://forms.gle/tATgaAwgjjfP6Z5J7).
 
 ### Upcoming events
 
