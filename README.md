@@ -1,6 +1,8 @@
-# Julia Users NZ
+<p align="center">
+    <img src="julia-users-nz-logo.png" alt="logo" width="200px"/>
+</p>
 
-<img src="julia-users-nz-logo.png" alt="logo" width="400px"/>
+# Julia Users NZ
 
 This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
@@ -10,9 +12,10 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
 We hope to have a kick-off event in early December.
 
-Date: early December
-Location: TBA
-Topic: TBA
+
+- Date     : early December
+- Location : TBA
+- Topic    : TBA
 
 ### Contact
 
@@ -27,10 +30,10 @@ One reason for starting this group is to gain visibility into some of the cool
 stuff people are doing with Julia in New Zealand.
 
 - Oscar ([@odow](https://github.com/odow), Auckland) is a core contributor of
-    [JuMP](https://jump.dev)
-- Morten ([@mortenpi], Auckland) is a Ph.D. student at U. Massey, Albany, and
-    maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) as a
-    side project.
+    [JuMP](https://jump.dev).
+- Morten ([@mortenpi](https://github.com/mortenpi), Auckland) is a Ph.D. student
+    at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
+    as a side project.
 
 ### Previous meetings
 
