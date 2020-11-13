@@ -25,7 +25,7 @@ We hope to have a kick-off event in early December.
 
 ### Contact
 
-- Join the [mailing list](https://forms.gle/tATgaAwgjjfP6Z5J7)
+- Join the [mailing list](https://forms.gle/AHyBWxjDMhNHuc149)
 
 You can also find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
 and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
