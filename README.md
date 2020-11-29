@@ -20,9 +20,11 @@ The Julia NZ kick-off event will take place at the Department of Physics of the 
 
 - **Date:**     Wednesday, 2 December 2020
 - **Time:**     4-6pm
-- **Location:** Room 610, Science Building 303, University of Auckland
+- **Location:** Room 610, Science Building 303, University of Auckland, [map](https://maps.auckland.ac.nz/wayfinding?type=poi&selectedLocation=1000028711)
 
-The plan is to have an informal session of brief talks and then have some snacks, drinks and to socialize. If you don't mind giving a short talk, please prepare a 5-minute presentation outlining what you use Julia for an how.
+_Finding the room_: The science building is located on 38 Princes Street, Auckland 1010. Due to construction work, access the building from Princes Street through the basement of Building 303. Alternatively, you can enter through Building 302 via the entrance on the corner Symonds and Wellesley.
+
+The plan is to have an informal session of brief talks and then have some snacks, drinks and to socialize. If you don't mind giving a short talk, please prepare a 5-minute presentation outlining what you use Julia for and how.
 
 Pizzas and soft drinks will be provided thanks to the support from Massey University and the Marsden fund. Vegetarian and vegan options will be available.
 
