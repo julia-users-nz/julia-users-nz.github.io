@@ -23,7 +23,6 @@ The Julia NZ kick-off event will take place at the Department of Physics of the 
 - **Location:** Room 610, Science Building 303, University of Auckland
 
 The plan is to have an informal session of brief talks and then have some snacks, drinks and to socialize. If you don't mind giving a short talk, please prepare a 5-minute presentation outlining what you use Julia for an how.
- 
 Pizzas and soft drinks will be provided thanks to the support from Massey University and the Marsden fund. Vegetarian and vegan options will be available.
 
 ### Contact
