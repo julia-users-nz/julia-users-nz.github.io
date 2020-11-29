@@ -16,12 +16,15 @@ If it doesn't work, [here is a link instead](https://forms.gle/AHyBWxjDMhNHuc149
 
 ### Upcoming events
 
-We hope to have a kick-off event in early December.
+The Julia NZ kick-off event will take place at the Department of Physics of the University of Auckland!
 
+- **Date:**     Wednesday, 2 December 2020
+- **Time:**     4-6pm
+- **Location:** Room 610, Science Building 303, University of Auckland
 
-- Date     : early December
-- Location : TBA
-- Topic    : TBA
+The plan is to have an informal session of brief talks and then have some snacks, drinks and to socialize. If you don't mind giving a short talk, please prepare a 5-minute presentation outlining what you use Julia for an how.
+ 
+Pizzas and soft drinks will be provided thanks to the support from Massey University and the Marsden fund. Vegetarian and vegan options will be available.
 
 ### Contact
 
