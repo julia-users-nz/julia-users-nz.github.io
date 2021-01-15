@@ -10,7 +10,7 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
 Use this form to join our mailing list.
 
-<iframe width="540" height="305" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="600" height="800" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
 If it doesn't work, [here is a link instead](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz).
 
