@@ -10,27 +10,29 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
 Use this form to join our mailing list.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0Ivdjp3OsiIuB2sd4ctd_MhJQjbPZs-pTHiYccXbt4mTuuA/viewform?embedded=true" style="width: 100%;" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe width="540" height="305" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
-If it doesn't work, [here is a link instead](https://forms.gle/AHyBWxjDMhNHuc149).
+If it doesn't work, [here is a link instead](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz).
 
 ### Upcoming events
 
-The Julia NZ kick-off event will take place at the Department of Physics of the University of Auckland!
+#### Julia NZ Meetup — 21 Januray 2021
 
-- **Date:**     Wednesday, 2 December 2020
-- **Time:**     4-6pm
-- **Location:** Room 610, Science Building 303, University of Auckland, [map](https://maps.auckland.ac.nz/wayfinding?type=poi&selectedLocation=1000028711)
+We will gladly have Dr. Ashton Bradley from Department of Physics, University of Otago, to give a Featured Talk about his experience using Julia as a language for teaching 300 level computational physics courses and for physics research, with examples from packages he has written: VortexDistributions.jl and PhaseSpaceTools.jl.
 
-_Finding the room_: The science building is located on 38 Princes Street, Auckland 1010. Due to construction work, access the building from Princes Street through the basement of Building 303. Alternatively, you can enter through Building 302 via the entrance on the corner Symonds and Wellesley.
 
-The plan is to have an informal session of brief talks and then have some snacks, drinks and to socialize. If you don't mind giving a short talk, please prepare a 5-minute presentation outlining what you use Julia for and how.
+- **Featured Talk:**    Julia Bits
+- **Speaker:**          Dr Ashton Bradley
+- **Date:**             Thursday, 21 January 2021
+- **Time:**             6:30 p.m.
+- **Location:**         Room 106.28, Building 106, Gate 4, Massey University (Albany Campus), Auckland. [View on Google Maps](https://goo.gl/maps/Q9Rwq3GsFUpEhjEh8)
 
-Pizzas and soft drinks will be provided thanks to the support from Massey University and the Marsden fund. Vegetarian and vegan options will be available.
+
+The Featured Talk will also be steamed via Zoom, the link will be sent later.
 
 ### Contact
 
-- Join the [mailing list](https://forms.gle/AHyBWxjDMhNHuc149)
+- Join the [mailing list](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz)
 
 You can also find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
 and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
@@ -48,7 +50,7 @@ stuff people are doing with Julia in New Zealand.
 
 ### Previous meetings
 
-... none yet ...
+- The Julia NZ kick-off event took place at the Department of Physics of the University of Auckland on 2 December 2020! Many thanks for people who joined! 
 
 ### Help improve this site
 
