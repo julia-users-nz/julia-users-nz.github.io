@@ -28,7 +28,7 @@ We will gladly have Dr. Ashton Bradley from Department of Physics, University of
 - **Location:**         Room 106.28, Building 106, Gate 4, Massey University (Albany Campus), Auckland. [View on Google Maps](https://goo.gl/maps/Q9Rwq3GsFUpEhjEh8)
 
 
-The Featured Talk will also be steamed via Zoom, the link will be sent later.
+The Featured Talk will also be streamed via Zoom, the link will be sent later.
 
 ### Contact
 
