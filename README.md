@@ -10,15 +10,15 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand.
 
 Use this form to join our mailing list.
 
-<iframe width="600" height="800" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe height="550" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto; width: 100%;"></iframe>
 
 If it doesn't work, [here is a link instead](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz).
 
 ### Upcoming events
 
-#### Julia NZ Meetup — 21 Januray 2021
+#### Julia NZ Meetup #2: 21 January 2021
 
-We will gladly have Dr. Ashton Bradley from Department of Physics, University of Otago, to give a Featured Talk about his experience using Julia as a language for teaching 300 level computational physics courses and for physics research, with examples from packages he has written: VortexDistributions.jl and PhaseSpaceTools.jl.
+We will have Dr. Ashton Bradley from the Department of Physics, University of Otago, giving a talk about his experience of using Julia for teaching 300-level computational physics courses and for physics research, with examples from packages he has written: [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
 
 
 - **Featured Talk:**    Julia Bits
@@ -27,8 +27,9 @@ We will gladly have Dr. Ashton Bradley from Department of Physics, University of
 - **Time:**             6:30 p.m.
 - **Location:**         Room 106.28, Building 106, Gate 4, Massey University (Albany Campus), Auckland. [View on Google Maps](https://goo.gl/maps/Q9Rwq3GsFUpEhjEh8)
 
+The meetup will also be streamed via Zoom, with the link sent to those who signed up.
 
-The Featured Talk will also be streamed via Zoom, the link will be sent later.
+If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/9Xm5cDtrfuE2GTF36).
 
 ### Contact
 
