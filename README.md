@@ -27,7 +27,7 @@ We will have Dr. Ashton Bradley from the Department of Physics, University of Ot
 - **Time:**             6:30 p.m.
 - **Location:**         Room 106.28, Building 106, Gate 4, Massey University (Albany Campus), Auckland. [View on Google Maps](https://goo.gl/maps/Q9Rwq3GsFUpEhjEh8)
 
-The meetup will also be streamed via Zoom, with the link sent to those who signed up.
+The meetup will also be streamed via Zoom. [Click here to join](https://massey.zoom.us/j/81994885981?pwd=THFldDV3RHc3WUE0V0ozNkV4bW9nQT09) or use the meeting ID **819 9488 5981** (password: 0632).
 
 If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/9Xm5cDtrfuE2GTF36).
 
