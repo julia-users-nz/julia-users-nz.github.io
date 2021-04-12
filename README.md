@@ -24,13 +24,6 @@ The meetup will also be streamed via Zoom. [Click here to join](https://massey.z
 
 If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/YLbXTmnpL8hBZVzt8).
 
-### Contact
-
-- Join the [mailing list](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz)
-
-You can also find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
-and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
-
 ### Who uses Julia in NZ?
 
 One reason for starting this group is to gain visibility into some of the cool
@@ -49,7 +42,8 @@ stuff people are doing with Julia in New Zealand.
 
 ### Mailing list
 
-Use this form to join our mailing list.
+Use this form to join our mailing list. You can also find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
+and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
 
 <iframe height="550" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto; width: 100%;"></iframe>
 
