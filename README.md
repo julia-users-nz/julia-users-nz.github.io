@@ -10,7 +10,7 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To 
 
 #### Julia NZ Meetup #3: 14 April 2021, 6 pm
 
-We will have Dr Anthony Blaom from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
+We will have [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 
 - **Featured Talk:**    Multi-paradigm machine learning in Julia
 - **Speaker:**          Dr Anthony Blaom (University of Auckland & The Alan Turning Institute)
