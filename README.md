@@ -16,7 +16,7 @@ We will have Dr Anthony Blaom from the University of Auckland & the Alan Turning
 - **Speaker:**          Dr Anthony Blaom (University of Auckland & The Alan Turning Institute)
 - **Date:**             Wednesday, 14 April 2021
 - **Time:**             6:00 p.m.
-- **Location:**         Department of Physics, University of Auckland
+- **Location:**         Room 610, Level 6, Building 303, Department of Physics, University of Auckland
 
 **Abstract:** [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/) is a relatively mature toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing, controlling, and comparing over 150 machine learning models written in Julia and other languages. After recalling the main ideas and workflows in machine learning practice, I shall describe what some of the main priorities of the MLJ project have been, and give a brief demonstration. 
 
