@@ -20,7 +20,7 @@ We will have [Dr. Anthony Blaom](https://github.com/ablaom) from the University 
 
 **Abstract:** [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/) is a relatively mature toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing, controlling, and comparing over 150 machine learning models written in Julia and other languages. After recalling the main ideas and workflows in machine learning practice, I shall describe what some of the main priorities of the MLJ project have been, and give a brief demonstration. 
 
-The meetup will also be streamed via Zoom. [Click here to join](https://massey.zoom.us/j/81994885981?pwd=THFldDV3RHc3WUE0V0ozNkV4bW9nQT09) or use the meeting ID **833 4674 2329** (password: 0632).
+The meetup will also be streamed via Zoom. [Click here to join](https://massey.zoom.us/j/83346742329?pwd=NnE3UzVnNEtCQ21qaVNiTEtIdWVJZz09) or use the meeting ID **833 4674 2329** (password: 0632).
 
 If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/YLbXTmnpL8hBZVzt8).
 
