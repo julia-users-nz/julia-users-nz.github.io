@@ -34,6 +34,7 @@ stuff people are doing with Julia in New Zealand.
 - Morten ([@mortenpi](https://github.com/mortenpi), Auckland) is a Ph.D. student
     at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
     as a side project.
+- Anthony ([@ablaom](https://github.com/ablaom), Auckland) is a mathematician and senior research fellow at the University of Auckland, computer science. He is the co-creator and lead developer of the machine learning toolbox [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl).
 
 ### Previous meetings
 
