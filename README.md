@@ -6,24 +6,6 @@
 
 This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To be in the loop, sign up [for the mailing list below](#mailing-list).
 
-### Upcoming events
-
-#### Julia NZ Meetup #3: 14 April 2021, 6 pm
-
-We will have [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
-
-- **Featured Talk:**    Multi-paradigm machine learning in Julia
-- **Speaker:**          Dr Anthony Blaom (University of Auckland & The Alan Turning Institute)
-- **Date:**             Wednesday, 14 April 2021
-- **Time:**             6:00 p.m.
-- **Location:**         Room 610, Level 6, Building 303, Department of Physics, University of Auckland
-
-**Abstract:** [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/) is a relatively mature toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing, controlling, and comparing over 150 machine learning models written in Julia and other languages. After recalling the main ideas and workflows in machine learning practice, I shall describe what some of the main priorities of the MLJ project have been, and give a brief demonstration. 
-
-The meetup will also be streamed via Zoom. [Click here to join](https://massey.zoom.us/j/83346742329?pwd=NnE3UzVnNEtCQ21qaVNiTEtIdWVJZz09) or use the meeting ID **833 4674 2329** (password: 0632).
-
-If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/YLbXTmnpL8hBZVzt8).
-
 ### Who uses Julia in NZ?
 
 One reason for starting this group is to gain visibility into some of the cool
@@ -36,10 +18,11 @@ stuff people are doing with Julia in New Zealand.
     as a side project.
 - Anthony ([@ablaom](https://github.com/ablaom), Auckland) is a mathematician and senior research fellow at the University of Auckland, computer science. He is the co-creator and lead developer of the machine learning toolbox [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl).
 
-### Previous meetings
+### Previous meetups
 
-- The Julia NZ kick-off event took place at the Department of Physics of the University of Auckland on 2 December 2020! Many thanks for people who joined! 
+- Julia NZ Meetup #1: The Julia NZ kick-off event took place at the Department of Physics of the University of Auckland on 2 December 2020! Many thanks for people who joined! 
 - Julia NZ Meetup #2: 21 January 2021, with Dr. Ashton Bradley from the Department of Physics, University of Otago, giving a talk about his experience of using Julia for teaching 300-level computational physics courses and for physics research, with examples from packages he has written: [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
+- Julia NZ Meetup #3: 14 April 2021 at the University of Auckland featuring a talk by [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 
 ### Mailing list
 
