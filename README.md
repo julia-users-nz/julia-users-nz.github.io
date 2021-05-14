@@ -17,10 +17,12 @@ stuff people are doing with Julia in New Zealand.
     at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
     as a side project.
 - Anthony ([@ablaom](https://github.com/ablaom), Auckland) is a mathematician and senior research fellow at the University of Auckland, computer science. He is the co-creator and lead developer of the machine learning toolbox [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl).
+- Joachim ([@joachimbrand](https://github.com/joachimbrand), Auckland) is a physicist at Massey University. He develops the quantum Monte Carlo package [Rimu.jl](https://github.com/joachimbrand/Rimu.jl) with his research group and collaborators.
+- Ashton ([@AshtonSBradley](https://github.com/AshtonSBradley), Dunedin) is a physicist at the University of Otago. He has authored [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
 
 ### Previous meetups
 
-- **Julia NZ Meetup #1:** The Julia NZ kick-off event took place at the Department of Physics of the University of Auckland on 2 December 2020! Many thanks for people who joined! 
+- **Julia NZ Meetup #1:** The Julia NZ kick-off event took place at the Department of Physics of the University of Auckland on 2 December 2020! Many thanks for people who joined!
 - **Julia NZ Meetup #2:** 21 January 2021, with Dr. Ashton Bradley from the Department of Physics, University of Otago, giving a talk about his experience of using Julia for teaching 300-level computational physics courses and for physics research, with examples from packages he has written: [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
 - **Julia NZ Meetup #3:** 14 April 2021 at the University of Auckland featuring a talk by [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 
