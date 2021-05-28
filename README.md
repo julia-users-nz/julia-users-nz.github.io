@@ -6,6 +6,28 @@
 
 This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To be in the loop, sign up [for the mailing list below](#mailing-list).
 
+### Upcoming events
+
+#### Julia NZ Meetup #4: 10 June 2021, 6:30 pm
+
+We will have [Dr. Oscar Dowson](https://github.com/odow) talking about [JuMP](https://jump.dev/), a modeling language and a set of supporting packages for mathematical optimization in Julia.
+
+- **Featured Talk:**    JuMP: a modeling language for mathematical optimization
+- **Speaker:**          Dr Oscar Dowson
+- **Date:**             Thursday, 10 June 2021
+- **Time:**             6:30 p.m.
+- **Location:**         [GridAKL / John Lysaght Building & Tech Café](https://gridakl.com/how-to-get-here/), Auckland CBD
+
+**Abstract:** 
+[JuMP](https://jump.dev/) is a modeling language and set of supporting packages for mathematical optimization in Julia. In this talk we discuss the history and motivation for JuMP, highlight novel differences from other modeling languages, and provide examples of how JuMP is driving industrial impact in a variety of sectors. In addition, we discuss our plans to ensure the long-term sustainability of JuMP as an open-source project with a strong academic and industrial user-base.
+
+[Dr. Oscar Dowson](https://github.com/odow) is a core contributor to JuMP and member of the JuMP steering committee. He obtained his Ph.D. from the University of Auckland, New Zealand, where he worked on multistage stochastic programming algorithms applied to the dairy industry. He is funded to work on JuMP by the NSF grant OAC1835443.
+
+The in-person event will take place at the [GridAKL](https://gridakl.com/) Tech Café in the John Lysaght Building (see their [website for directions](https://gridakl.com/how-to-get-here/)).
+The meetup will also be streamed via Zoom. [Click here to join](https://massey.zoom.us/j/87595994212?pwd=aFN1TUJVaGRxTDJxdkRleFh2dTFEZz09) or use the meeting ID **875 9599 4212** (password: `2021`).
+
+If you wish to attend, either in person or online, please [**sign up here**](https://forms.gle/JaqsVB78h9478urU7).
+
 ### Who uses Julia in NZ?
 
 One reason for starting this group is to gain visibility into some of the cool
