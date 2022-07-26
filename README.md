@@ -8,7 +8,15 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To 
 
 ### Upcoming events
 
-TBA
+#### JuliaCon NZ Meetup: 28 July 2022 8:00 pm
+
+All Julia enthusiasts are welcome to a special JuliaCon NZ meetup.
+The plan is to meet up for pizza on Thursday night (28 July, 8pm) before the JuliaCon stream starts, and then watch [the JuliaCon keynote by Jeremy Howard][juliacon-schedule] (and possibly few other talks) together on a big screen.
+
+Pizza will be provided, drinks are BYO. If you can, please let us know you're coming by filling out [**this RSVP form**][rsvp], so we know how much pizza to organise.
+
+[rsvp]: https://docs.google.com/forms/d/e/1FAIpQLSep2Gczqo2u_03Qj05rmu_oY7QPeHZRbzOSeoPZ5wC5a0WHnw/viewform?usp=sf_link
+[juliacon-schedule]: https://live.juliacon.org/agenda/2022-07-28
 
 ### Who uses Julia in NZ?
 
