@@ -8,15 +8,7 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To 
 
 ### Upcoming events
 
-#### JuliaCon NZ Meetup: 28 July 2022 8:00 pm
-
-All Julia enthusiasts are welcome to a special JuliaCon NZ meetup.
-The plan is to meet up for pizza on Thursday night (28 July, 8pm) before the JuliaCon stream starts, and then watch [the JuliaCon keynote by Jeremy Howard][juliacon-schedule] (and possibly few other talks) together on a big screen.
-
-Pizza will be provided, drinks are BYO. If you can, please let us know you're coming by filling out [**this RSVP form**][rsvp], so we know how much pizza to organise.
-
-[rsvp]: https://docs.google.com/forms/d/e/1FAIpQLSep2Gczqo2u_03Qj05rmu_oY7QPeHZRbzOSeoPZ5wC5a0WHnw/viewform?usp=sf_link
-[juliacon-schedule]: https://live.juliacon.org/agenda/2022-07-28
+Nothing right now, but see [previous meetups](#previous-meetups).
 
 ### Who uses Julia in NZ?
 
@@ -38,6 +30,7 @@ stuff people are doing with Julia in New Zealand.
 - **Julia NZ Meetup #2:** 21 January 2021, with Dr. Ashton Bradley from the Department of Physics, University of Otago, giving a talk about his experience of using Julia for teaching 300-level computational physics courses and for physics research, with examples from packages he has written: [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
 - **Julia NZ Meetup #3:** 14 April 2021 at the University of Auckland featuring a talk by [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 - **Julia NZ Meetup #4:** 10 June 2021 at GridAKL featuring a talk by [Dr. Oscar Dowson](https://github.com/odow) on [JuMP](https://jump.dev/) -- a modeling language for mathematical optimization.
+- **JuliaCon 2022 NZ Meetup:** 28 July 2022 at Massey University
 
 ### Mailing list
 
