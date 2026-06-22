@@ -9,7 +9,9 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To 
 ### Upcoming events
 
 REVIVING Julia Users NZ meetups!
-- **Julia NZ Meetup #6:** Tuesday, **30 June 2026**, from 6pm at University of Auckland, Science Centre, building 303, room 610.
+- **Julia NZ Meetup #6:** Tuesday, **30 June 2026**, from 6pm at University of Auckland, Science Centre, building 303, room 610:
+- Introductions and Talks from 6:30pm followed by
+- Networking over food
 
 For past events, see [previous meetups](#previous-meetups).
 
