@@ -25,8 +25,7 @@ stuff people are doing with Julia in New Zealand.
 - Elke ([@ElkePahl](https://github.com/ElkePahl), Auckland) is a computational condensed-matter physicist at Auckland University. She develops a parallel-tempering Monte Carlo package [ParallelTemperingMonteCarlo.jl](https://github.com/ElkePahl/ParallelTemperingMonteCarlo.jl) with her research group using Julia. She is also collaborator on the `Rimu.jl` project.
 - Ashton ([@AshtonSBradley](https://github.com/AshtonSBradley), Dunedin) is a physicist at the University of Otago. He has authored [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
 - Morten ([@mortenpi](https://github.com/mortenpi), Auckland) is a former Ph.D. student
-    at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
-    as a side project.
+at Massey University, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) as a side project.
 
 ### Previous meetups
 
