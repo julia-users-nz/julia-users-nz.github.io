@@ -8,7 +8,9 @@ This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To 
 
 ### Upcoming events
 
-Nothing right now, but see [previous meetups](#previous-meetups).
+REVIVING Julia Users NZ meetups! Tuesday, June 30th, from 6pm at University of Auckland, Science Centre, building 303, room 610.
+
+For past events, see [previous meetups](#previous-meetups).
 
 ### Who uses Julia in NZ?
 
@@ -17,13 +19,13 @@ stuff people are doing with Julia in New Zealand.
 
 - Oscar ([@odow](https://github.com/odow), Auckland) is a core contributor of
     [JuMP](https://jump.dev).
-- Morten ([@mortenpi](https://github.com/mortenpi), Auckland) is a Ph.D. student
-    at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
-    as a side project.
 - Anthony ([@ablaom](https://github.com/ablaom), Auckland) is a mathematician and senior research fellow at the University of Auckland, computer science. He is the co-creator and lead developer of the machine learning toolbox [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl).
 - Joachim ([@joachimbrand](https://github.com/joachimbrand), Auckland) is a physicist at Massey University. He develops the quantum Monte Carlo package [Rimu.jl](https://github.com/joachimbrand/Rimu.jl) with his research group and collaborators.
 - Elke ([@ElkePahl](https://github.com/ElkePahl), Auckland) is a computational condensed-matter physicist at Auckland University. She develops a parallel-tempering Monte Carlo package [ParallelTemperingMonteCarlo.jl](https://github.com/ElkePahl/ParallelTemperingMonteCarlo.jl) with her research group using Julia. She is also collaborator on the `Rimu.jl` project.
 - Ashton ([@AshtonSBradley](https://github.com/AshtonSBradley), Dunedin) is a physicist at the University of Otago. He has authored [VortexDistributions.jl](https://github.com/AshtonSBradley/VortexDistributions.jl) and [PhaseSpaceTools.jl](https://github.com/AshtonSBradley/PhaseSpaceTools.jl).
+- Morten ([@mortenpi](https://github.com/mortenpi), Auckland) is a former Ph.D. student
+    at U. Massey, Albany, and maintains [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
+    as a side project.
 
 ### Previous meetups
 
