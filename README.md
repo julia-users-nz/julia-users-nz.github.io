@@ -4,7 +4,8 @@
 
 # Julia Users NZ
 
-This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To be in the loop, sign up [for the mailing list below](#mailing-list).
+This site co-ordinates [Julia](https://julialang.org) events in New Zealand. To be in the loop, find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
+and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
 
 ### Upcoming events
 
@@ -39,15 +40,6 @@ at Massey University, Albany, and maintains [Documenter.jl](https://github.com/J
 - **Julia NZ Meetup #3:** 14 April 2021 at the University of Auckland featuring a talk by [Dr. Anthony Blaom](https://github.com/ablaom) from the University of Auckland & the Alan Turning Institute talking about [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 - **Julia NZ Meetup #4:** 10 June 2021 at GridAKL featuring a talk by [Dr. Oscar Dowson](https://github.com/odow) on [JuMP](https://jump.dev/) -- a modeling language for mathematical optimization.
 - **JuliaCon 2022 NZ Meetup:** 28 July 2022 at Massey University
-
-### Mailing list
-
-Use this form to join our mailing list. You can also find us at the `#new-zealand` channel on [Slack](http://julialang.slack.com)
-and the `#new-zealand-local` channel on [Zulip](https://julialang.zulipchat.com/#narrow/stream/263467-new-zealand-local).
-
-<iframe height="550" src="https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto; width: 100%;"></iframe>
-
-If it doesn't work, [here is a link instead](https://c553f754.sibforms.com/serve/MUIEAN8zKeN3doS6iGWQ0aQ-_dWgTJ3DDdzn_m2t566JUg0THQKL-lWqP92rkUcYRfNRBce-Xs4LYJ3i68ryCSYy3L8Vwlmm3lfSq1IBnbO5QI_il0973MXcdHl_21MsJbUcdit4lVJTOa3xuVSY_pkc5RuQr3eOH1JE7o3m3ElZB8wJ2H0Xfjsu-fNmbHl5eS3YeYtJDIiM3ZQz).
 
 ### Help improve this site
 
